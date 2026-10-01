@@ -1,4 +1,4 @@
-r### Eduardo Díez — Staff Engineer · Vigo, ES
+### Eduardo Díez — Staff Engineer · Vigo, ES
 
 20+ años construyendo software en producción. Carrera que empezó en infraestructura
 (redes, firewalls, BGP, servidores) y evolucionó a backend y, en los últimos años,
