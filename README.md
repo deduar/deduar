@@ -26,5 +26,5 @@ a IA agéntica orquestada.
 Abierto a: Staff/Principal full-time en España (remoto) · contratos freelance
 senior · consultoría IA agéntica.
 
-→ **LinkedIn**: [eduardo-diez-6a8b0810](https://www.linkedin.com/in/eduardo-diez-6a8b0810/)
+→ **LinkedIn**: [deduar](www.linkedin.com/in/deduar)
 → **Email**: deduar@gmail.com
